@@ -3,4 +3,4 @@ This repository is for implementation of the paper Simple and Scalable Predictiv
 
 ![Deep Ensemble vs MC Dropout](https://user-images.githubusercontent.com/49624517/62756661-91d3cd00-bab3-11e9-9eae-2fa0f5f94668.png)
 
-Modified code from @kyushik
+ Code is originally from @kyushik, but modified.
